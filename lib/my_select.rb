@@ -5,5 +5,6 @@ while i <newarray.length
 newarray << yield (collection[i])
 i+=1
 end 
+
 end 
 
