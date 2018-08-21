@@ -2,7 +2,7 @@ def my_select(collection)
 newarray = []
 i = 0 
 while i <newarray.length
-newarray.push yield(collection.even?[i])
+newarray << yield(collection.even?[i])
 i +=1
 end 
 end 
