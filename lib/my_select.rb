@@ -3,7 +3,7 @@ newarray = []
 i = 0 
 while i <newarray.length
 newarray << yield
-
+end 
 
 
 
