@@ -6,4 +6,3 @@ newarray << yield (collection[i])
 end 
 
 
-end
