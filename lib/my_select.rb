@@ -5,9 +5,9 @@ while i <collection.length
 if yield[collection[i]].even?
 newarray << yield(collection[i])
 i +=1
-end
 elsif 
 i+=1
+end
 end 
 newarray
 end 
