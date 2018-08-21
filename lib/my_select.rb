@@ -1,3 +1,11 @@
 def my_select(collection)
- # your code here!
+newarray = []
+i = 0 
+while i <newarray.length
+newarray << yield
+
+
+
+
+
 end
