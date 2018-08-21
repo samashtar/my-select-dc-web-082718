@@ -3,6 +3,7 @@ newarray = []
 i = 0 
 while i <newarray.length
 newarray.push yield(collection.even?[i])
+i +=1
 end 
 end 
 
